@@ -1,0 +1,27 @@
+DNA Change	Type	Consequences	# Affected Cases in Cohort	# Affected Cases Across the GDC	Impact	Survival
+chr2:g.182925743A>G	Substitution	Missense NCKAP1 Y1122H	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.995	
+chr4:g.148436382G>A	Substitution	Missense NR3C2 P160L	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0, PolyPhen: possibly_damaging - score 0.908	
+chr12:g.132197102T>G	Substitution	3 Prime UTR GALNT9	1 / 440,0.23%	1 / 10,202	VEP: MODIFIER	
+chr11:g.22370125T>G	Substitution	Missense SLC17A6 F326L	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: benign - score 0.145	
+chr6:g.73641811delC	Deletion	Frameshift SLC17A5 M137Cfs*3	1 / 440,0.23%	1 / 10,202	VEP: HIGH	
+chr19:g.19795072A>G	Substitution	Missense ZNF506 L272P	1 / 440,0.23%	2 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.999	
+chr11:g.55554815C>T	Substitution	Missense OR4C15 A170V	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.98, PolyPhen: benign - score 0.023	
+chr18:g.22416123G>T	Substitution	Synonymous CTAGE1 P563P	1 / 440,0.23%	1 / 10,202	VEP: LOW	
+chr11:g.66605724C>T	Substitution	Missense CCS R232C	1 / 440,0.23%	2 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	
+chr19:g.40242003G>A	Substitution	Missense AKT2 R170W	1 / 440,0.23%	2 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.946	
+chr15:g.27480794A>C	Substitution	Splice Region GABRG3	1 / 440,0.23%	1 / 10,202	VEP: LOW	
+chr11:g.5507715T>G	Substitution	Missense UBQLN3 H615P	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: benign - score 0.148	
+chr19:g.54156842_54156843insC	Insertion	Frameshift LENG1 K166Efs*8	1 / 440,0.23%	1 / 10,202	VEP: HIGH	
+chrX:g.130184568C>T	Substitution	Missense RAB33A S181L	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	
+chr6:g.161112718C>T	Substitution	Missense MAP3K4 R1524C	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	
+chr19:g.57398719C>A	Substitution	Missense ZNF548 H156Q	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: tolerated - score 0.17, PolyPhen: benign - score 0.101	
+chr1:g.153204772A>C	Substitution	Missense LELP1 K22T	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0.02, PolyPhen: benign - score 0.192	
+chr3:g.30606940T>C	Substitution	Synonymous TGFBR2 R19R	1 / 440,0.23%	1 / 10,202	VEP: LOW	
+chr5:g.142314632G>A	Substitution	Synonymous SPRY4 C182C	1 / 440,0.23%	3 / 10,202	VEP: LOW	
+chr14:g.22922538C>T	Substitution	Missense PRMT5 R534H	1 / 440,0.23%	2 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.993	
+chr17:g.80347273G>T	Substitution	Missense RNF213 A2980S	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, PolyPhen: possibly_damaging - score 0.454	
+chr11:g.63631107C>A	Substitution	Missense ATL3 R491M	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: possibly_damaging - score 0.907	
+chr12:g.82857499T>A	Substitution	Synonymous TMTC2 T191T	1 / 440,0.23%	1 / 10,202	VEP: LOW	
+chr9:g.13107035A>G	Substitution	Missense MPDZ V2019A	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.04, PolyPhen: probably_damaging - score 0.996	
+chr14:g.104738399C>T	Substitution	Missense ADSSL1 P150S	1 / 440,0.23%	1 / 10,202	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: possibly_damaging - score 0.868	
+chr1:g.151401839G>A	Substitution	3 Prime UTR PSMB4	1 / 440,0.23%	1 / 10,202	VEP: MODIFIER	
